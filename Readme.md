@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to define an unbound column within GridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2824)**
+**[[Run Online]](https://codecentral.devexpress.com/e2824/)**
 <!-- run online end -->
 
 
